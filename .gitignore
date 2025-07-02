@@ -8,7 +8,7 @@
 .history
 
 
-
+.metadata
 # Flutter repo-specific
 /bin/cache/
 /bin/internal/bootstrap.bat
