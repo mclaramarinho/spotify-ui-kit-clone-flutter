@@ -9,7 +9,7 @@ class SpotifyCloneThemes {
   static const Map<String, String> themeMap = {
     light: 'Light Theme',
     dark: 'Dark Theme',
-  };
+  };  
 
   // static const light = Light();
 }
